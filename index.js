@@ -11,7 +11,7 @@ function divide(a,b) {
   return a/b
 }
 function inc(v) {
-return (v + 1 )
+return (v + 1)
 }
 function inc(f) {
   return (f - 1)
