@@ -1,2 +1,3 @@
-var number(a,b)
-1+80 //
+var (a,b)
+function add(1+80) {
+}
