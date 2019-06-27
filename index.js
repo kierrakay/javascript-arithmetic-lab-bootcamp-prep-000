@@ -13,6 +13,3 @@ function divide(a,b) {
 function inc(v) {
 return (v + 1)
 }
-function inc(f) {
-  return (f - 1)
-}
