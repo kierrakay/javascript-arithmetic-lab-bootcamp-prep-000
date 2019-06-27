@@ -17,6 +17,6 @@ function dec(n) {
   return (n-1)
 }
 
-function makeInt(n) {
-  parseInt (n,n)
+function makeInt(n.toString) {
+  parseInt (n)
 }
