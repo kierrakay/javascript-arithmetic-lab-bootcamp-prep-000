@@ -1,4 +1,4 @@
-var 5,2
+var nume5,2
 function(add5) {
  number += 5 
 }
