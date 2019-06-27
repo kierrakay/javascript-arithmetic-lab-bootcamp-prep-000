@@ -1,3 +1,3 @@
 var (a,b)
-before each function add(1+80) {
+before each (function add(1+80)) {
 }
